@@ -1,1 +1,1 @@
-# tridizi.github.io
+# Tridizi assignment website
